@@ -1,0 +1,169 @@
+# Временные файлы Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Файлы сборки и временные папки
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+build/
+bld/
+x64/
+x86/
+
+# Папки конфигурации Visual Studio и VS Code
+.vs/
+.vscode/
+
+# Пакеты NuGet
+**/packages/*
+!**/packages/*.nuspec
+
+# Артефакты сборки и публикации
+artifacts/
+
+# Веб-ресурсы
+wwroot/lib/
+
+# Логи и системные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# Конфигурационные файлы секретов (если есть)
+secrets.json
+
+# Mono crash dump (если используется Mono)
+mono_crash.*
+
+# Исключения для файлов, специфичных для проекта или IDE, можно добавлять по необходимости# Временные файлы Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Файлы сборки и временные папки
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+build/
+bld/
+x64/
+x86/
+
+# Папки конфигурации Visual Studio и VS Code
+.vs/
+.vscode/
+
+# Пакеты NuGet
+**/packages/*
+!**/packages/*.nuspec
+
+# Артефакты сборки и публикации
+artifacts/
+
+# Веб-ресурсы
+wwroot/lib/
+
+# Логи и системные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# Конфигурационные файлы секретов (если есть)
+secrets.json
+
+# Mono crash dump (если используется Mono)
+mono_crash.*
+
+# Исключения для файлов, специфичных для проекта или IDE, можно добавлять по необходимости# Временные файлы Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Файлы сборки и временные папки
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+build/
+bld/
+x64/
+x86/
+
+# Папки конфигурации Visual Studio и VS Code
+.vs/
+.vscode/
+
+# Пакеты NuGet
+**/packages/*
+!**/packages/*.nuspec
+
+# Артефакты сборки и публикации
+artifacts/
+
+# Веб-ресурсы
+wwroot/lib/
+
+# Логи и системные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# Конфигурационные файлы секретов (если есть)
+secrets.json
+
+# Mono crash dump (если используется Mono)
+mono_crash.*
+
+# Исключения для файлов, специфичных для проекта или IDE, можно добавлять по необходимости# Временные файлы Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Файлы сборки и временные папки
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+build/
+bld/
+x64/
+x86/
+
+# Папки конфигурации Visual Studio и VS Code
+.vs/
+.vscode/
+
+# Пакеты NuGet
+**/packages/*
+!**/packages/*.nuspec
+
+# Артефакты сборки и публикации
+artifacts/
+
+# Веб-ресурсы
+wwroot/lib/
+
+# Логи и системные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# Конфигурационные файлы секретов (если есть)
+secrets.json
+
+# Mono crash dump (если используется Mono)
+mono_crash.*
+
+# Исключения для файлов, специфичных для проекта или IDE, можно добавлять по необходимости
